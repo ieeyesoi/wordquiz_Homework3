@@ -1,4 +1,4 @@
-# Projet's title
+# Project's title
 **_Wordquiz_**
 
 # What's **_wordquiz_**? 
@@ -14,9 +14,13 @@ Since the program is written in C language, it builds the right environment to r
 Download "_Wordquiz_" program from the developer's repository in file format.
 ## How to run _Wordquiz_?
 - If you enter one of the input values corresponding to the list (number 1 to 4), the list is executed.
-- If you enter the number you want to run for the next menu that pops up, you can show words, test words, end execution, etc. according to each number
-- 
+- If you enter the number you want to run for the next menu that pops up, you can show words, test words, end execution, etc. according to each number.
+  
 ![image](https://github.com/ieeyesoi/wordquiz_Homework3/assets/163744470/bf047357-5014-4d1b-982a-d60915eb5c8e).
+
+- If you choose to view a word book, enter the corresponding word and run wordquiz.
+- If you want to repeat the word quiz in the same way as the following screenshot and end the program, enter 4 to end it.
+
 ![image](https://github.com/ieeyesoi/wordquiz_Homework3/assets/163744470/cba58645-e4c6-4ec6-a5c9-16b84e99a7fd)
 
 ## How to use _Wordquiz_?
