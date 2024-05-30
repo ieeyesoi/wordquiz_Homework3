@@ -13,12 +13,18 @@ Since the program is written in C language, it builds the right environment to r
 ### step 2
 Download "_Wordquiz_" program from the developer's repository in file format.
 ## How to run _Wordquiz_?
+- If you enter one of the input values corresponding to the list (number 1 to 4), the list is executed.
+- If you enter the number you want to run for the next menu that pops up, you can show words, test words, end execution, etc. according to each number
+- 
+![image](https://github.com/ieeyesoi/wordquiz_Homework3/assets/163744470/bf047357-5014-4d1b-982a-d60915eb5c8e).
+![image](https://github.com/ieeyesoi/wordquiz_Homework3/assets/163744470/cba58645-e4c6-4ec6-a5c9-16b84e99a7fd)
+
+## How to use _Wordquiz_?
 ### step 1
 Complete the installation steps.
 ### step 2
 Using the term, input a command recorded in the program and run a word quiz. 
 At this time, be careful because an error may occur if a command not included in the program is input.
-## How to use _Wordquiz_?
 
 # Credits
 ## Our team(Collaborater) :+1:
